@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: AFSAR JUMAIL S
-### Reg.NO: 212222240004
+### Name: P Balasudhan
+### Reg.NO: 212222240017
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
